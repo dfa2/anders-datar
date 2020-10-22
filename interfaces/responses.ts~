@@ -1,0 +1,7 @@
+/* eslint-disable no-undef */
+
+interface HelloResponse {
+  message: string
+}
+
+export { HelloResponse }
